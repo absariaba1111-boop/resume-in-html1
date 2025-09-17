@@ -1,10 +1,4 @@
 # resume-in-html1<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
 <body>
  <h1>Absar Ahmed</h1>
  <img src="assets/me.jpg.jpeg" width="150">
@@ -27,6 +21,11 @@
   <h2>Experience</h2>
   <h3>Sales Executive - Streamers Pack (PVT) LTD</h3>
   <p><i>March 2024 - June 2025</i></p>
+  <p> I have over 1 year of experience as a Sales Executive in a software company. I talked
+ with clients, understood what kind of digital solutions they needed, and helped them
+ choose the right services. I enjoyed building good relationships, and helping the
+ company grow by bringing in new customers. This role really improved my confidence
+ and communication skills.</p>
   <ul>
     <li>Engaged global clients on multiple platforms.</li>
     <li>Worked in a team to achieve monthly sales goals.</li>
@@ -45,7 +44,6 @@
 <ul>
   <li>English</li>
   <li>Udru</li>
-
 </ul>
 </body>
 </html>
